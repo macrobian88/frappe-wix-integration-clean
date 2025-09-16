@@ -1,3 +1,6 @@
-# Database patches will be listed here
-# Format: module_name.version.patch_file_name
-# Example: wix_integration.0.0.1.add_custom_fields
+# This file lists all database patches for the Wix Integration app
+# Each line should contain the patch in format: module_name.version.patch_file_name
+# Example: wix_integration.v0_0.setup_custom_fields
+
+# No patches currently required for this app
+# Future patches will be added here as needed
