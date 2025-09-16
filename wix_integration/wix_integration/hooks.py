@@ -18,8 +18,8 @@ doc_events = {
 # Required apps
 required_apps = ["frappe"]
 
-# Installation
-after_install = "wix_integration.install.after_install"
+# Installation - Fixed path
+# after_install = "wix_integration.install.after_install"
 
 # Website Settings
 # website_route_rules = [
